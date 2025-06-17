@@ -72,3 +72,5 @@ import re
 # test_string = re.compile(r'[^1-9aeiou]')
 # mo = test_string.findall('HUndred100')
 # print(f'{mo}')
+
+print(test)
